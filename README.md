@@ -1,4 +1,4 @@
-### elven-tools-collection-owners-csv
+### elven-tools-snapshots-intersection
 
 The purpose of this script is to be able to filter long-term hodlers of a particular NFT collection.
 

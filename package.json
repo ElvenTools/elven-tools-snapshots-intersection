@@ -1,0 +1,15 @@
+{
+  "name": "elven-tools-snapshots-intersection",
+  "version": "0.0.1",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "generate": "cd data && node ../index.js"
+  },
+  "author": "Julian Ćwirko <julian.io>",
+  "license": "MIT",
+  "dependencies": {
+    "lodash.intersection": "^4.4.0"
+  }
+}
